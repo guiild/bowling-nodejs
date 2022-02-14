@@ -1,0 +1,14 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "take home test bowling",
+  "main": "index.js",
+  "author": "contact@guiild.fr",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
